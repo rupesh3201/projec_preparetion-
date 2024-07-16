@@ -71,3 +71,23 @@
     color: grey;
     margin-left: -185px;
 }
+
+.Price
+{
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+
+}
+.recruiting_continer
+{
+    display: flex;
+    align-items: center;
+   
+    margin-top:60px ;
+    margin-left: -170px;
+    gap: 5px;
+    
+}
+
+
