@@ -86,8 +86,12 @@
    
     margin-top:60px ;
     margin-left: -170px;
-    gap: 5px;
-    
+    gap: 5px;   
+}
+.recruiting_logo
+{
+    margin-top: 15px;
+    height: 15px;
 }
 
 
