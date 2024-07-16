@@ -50,3 +50,24 @@
     font-weight: bold;
     cursor: pointer;
 }
+
+.Company_name
+{
+    
+    font-size: 18px;
+    font-weight: 100;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 42px;
+    color:  rgb(8, 8, 8);
+    margin-left: -185px;
+
+}
+.Job_Location
+{
+    font-size: 12px;
+    font-weight: 100;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 65px;
+    color: grey;
+    margin-left: -185px;
+}
