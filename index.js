@@ -21,7 +21,7 @@ function send_Greatings(name, send_communication)
     console.log(send_communication);
 
 }
-send_Greatings('Rupesh',send_Email());
-send_Greatings('Harish',send_Email());
-send_Greatings('Funtya',send_Email() );
-send_Greatings('Akash',send_Sms());
+send_Greatings('Rupesh',send_Email);
+send_Greatings('Harish',send_Email);
+send_Greatings('Funtya',send_Email );
+send_Greatings('Akash',send_Sms);
