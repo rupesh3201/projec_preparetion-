@@ -2,4 +2,4 @@ function hello()
 {
     console.log('hi');
 }
-hello();
+hello();//named function and Normal function
