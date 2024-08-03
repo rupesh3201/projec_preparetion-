@@ -18,6 +18,7 @@ function send_Sms(name)
 function send_Greatings(name, send_communication)
 {
     console.log(`Hello${name}`);
+    console.log(send_communication);
 
 }
 send_Greatings('Rupesh',send_Email);
