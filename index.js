@@ -19,6 +19,7 @@ function send_Greatings(name, send_communication)
 {
     console.log(`Hello ${name}`);
     console.log(send_communication);
+    send_communication(name);
 
 }
 send_Greatings('Rupesh',send_Email);
