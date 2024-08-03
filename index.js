@@ -22,7 +22,7 @@ function send_Greatings(name, send_communication) //Higher Order Funtion which  
     send_communication(name);
 
 }
-send_Greatings('Rupesh',send_Email); // CALL back function
+send_Greatings('Rupesh',send_Email); // CALL back function that be pass to another function
 send_Greatings('Harish',send_Email); // CALL back function
 send_Greatings('Funtya',send_Email );// CALL back function
 send_Greatings('Akash',send_Sms);// CALL back function
