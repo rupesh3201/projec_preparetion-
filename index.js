@@ -15,7 +15,7 @@ function send_Sms(name)
 
 }
 
-function send_Greatings(name, send_communication) //Higher Order Funtion
+function send_Greatings(name, send_communication) //Higher Order Funtion which  recives argument as called as higher order function
 {
     console.log(`Hello ${name}`);
     console.log(send_communication);
